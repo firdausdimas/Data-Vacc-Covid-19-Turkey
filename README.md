@@ -2,7 +2,7 @@
 Kaggle project
 https://www.kaggle.com/omercolakoglu/turkey-covid-19-vaccination-data
 
-In this Project we served with a table about Covid-19 data vaccination in Turkey. There is 81 Rows from 438182 data rows, and had 13 columns, where each columns contain 
+In this Project we are presented with a table about Covid-19 data vaccination in Turkey. There is 81 Rows from 438182 data rows, and had 13 columns, where each columns contain 
 ID,	DATE_,	SEQID,	CITY,	CITY2,	_1DOSE,	_2DOSE,	_TOTAL,	POPULATION,	DIFF_1DOSE,	DIFF_2DOSE,	DIFF_TOTAL, and	PREVID.
 
 
